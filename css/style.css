@@ -1,0 +1,32 @@
+/*header{
+    background-color: rgb(152, 230, 230) !important;
+    width: 100% !important;
+    padding: 5px !important;
+    color: black !important;
+} elemento*/
+
+.header{
+    background-color: rgb(236, 143, 143);
+    width: 100%;
+    padding: 5px;
+} /*clases*/
+
+#header{
+    background-color: rgb(101, 122, 216);
+    width: 100%;
+    padding: 5px;
+} /*identificadores*/
+
+/*Estilos en linea, directo en las etiquetas*/
+
+.border-danger-img{
+    background-color: #f834348c !important;
+}
+
+.text-pink{
+    color: #d63384;
+}
+
+.text-brown{
+    color: #fd7e14;
+}
